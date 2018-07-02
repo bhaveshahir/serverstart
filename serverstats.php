@@ -425,7 +425,7 @@
     {
         chart.zoomToIndexes(chart.dataProvider.length - 20, chart.dataProvider.length - 1);
     }
-    </script>sassdsd
+    </script>
     </body>
 </html>
 
